@@ -1,9 +1,9 @@
-# Your Project's Title...
-Your project's description...
+# GM FRANKLIN POC
+POC To migrate GM Website using helix
 
 ## Environments
-- Preview: https://main--{repo}--{owner}.hlx.page/
-- Live: https://main--{repo}--{owner}.hlx.live/
+- Preview: https://main--gm-franklin-poc--bnanda99.hlx.page/
+- Live: https://main--gm-franklin-poc--bnanda99.hlx.live/
 
 ## Installation
 
